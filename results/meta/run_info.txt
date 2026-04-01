@@ -1,0 +1,6 @@
+timestamp_utc=2026-04-01T18:14:46Z
+host=login-20-25.hpcc.ttu.edu
+user=annewaz
+root=/lustre/work/annewaz/nwp
+git_commit=5716cc0
+git_status=9 changes

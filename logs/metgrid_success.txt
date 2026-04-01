@@ -1,0 +1,42 @@
+# metgrid tail
+# generated 2026-04-01T18:14:46Z
+2026-04-01 11:42:13.180 --- Writing field GREENFRAC to output.
+2026-04-01 11:42:13.199 --- Writing field ALBEDO12M to output.
+2026-04-01 11:42:13.216 --- Writing field SCB_DOM to output.
+2026-04-01 11:42:13.220 --- Writing field SOILCBOT to output.
+2026-04-01 11:42:13.245 --- Writing field SCT_DOM to output.
+2026-04-01 11:42:13.248 --- Writing field SOILCTOP to output.
+2026-04-01 11:42:13.272 --- Writing field SOILTEMP to output.
+2026-04-01 11:42:13.274 --- Writing field HGT_M to output.
+2026-04-01 11:42:13.276 --- Writing field LU_INDEX to output.
+2026-04-01 11:42:13.282 --- Writing field LANDUSEF to output.
+2026-04-01 11:42:13.314 --- Writing field COSALPHA_V to output.
+2026-04-01 11:42:13.316 --- Writing field SINALPHA_V to output.
+2026-04-01 11:42:13.318 --- Writing field COSALPHA_U to output.
+2026-04-01 11:42:13.319 --- Writing field SINALPHA_U to output.
+2026-04-01 11:42:13.321 --- Writing field XLONG_C to output.
+2026-04-01 11:42:13.323 --- Writing field XLAT_C to output.
+2026-04-01 11:42:13.325 --- Writing field LANDMASK to output.
+2026-04-01 11:42:13.326 --- Writing field COSALPHA to output.
+2026-04-01 11:42:13.328 --- Writing field SINALPHA to output.
+2026-04-01 11:42:13.330 --- Writing field F to output.
+2026-04-01 11:42:13.331 --- Writing field E to output.
+2026-04-01 11:42:13.333 --- Writing field MAPFAC_UY to output.
+2026-04-01 11:42:13.335 --- Writing field MAPFAC_VY to output.
+2026-04-01 11:42:13.337 --- Writing field MAPFAC_MY to output.
+2026-04-01 11:42:13.338 --- Writing field MAPFAC_UX to output.
+2026-04-01 11:42:13.340 --- Writing field MAPFAC_VX to output.
+2026-04-01 11:42:13.342 --- Writing field MAPFAC_MX to output.
+2026-04-01 11:42:13.343 --- Writing field MAPFAC_U to output.
+2026-04-01 11:42:13.345 --- Writing field MAPFAC_V to output.
+2026-04-01 11:42:13.347 --- Writing field MAPFAC_M to output.
+2026-04-01 11:42:13.349 --- Writing field CLONG to output.
+2026-04-01 11:42:13.350 --- Writing field CLAT to output.
+2026-04-01 11:42:13.352 --- Writing field XLONG_U to output.
+2026-04-01 11:42:13.354 --- Writing field XLAT_U to output.
+2026-04-01 11:42:13.355 --- Writing field XLONG_V to output.
+2026-04-01 11:42:13.357 --- Writing field XLAT_V to output.
+2026-04-01 11:42:13.358 --- Writing field XLONG_M to output.
+2026-04-01 11:42:13.360 --- Writing field XLAT_M to output.
+2026-04-01 11:42:13.361 --- Closing output file.
+2026-04-01 11:42:14.419 ---  *** Successful completion of program metgrid.exe ***

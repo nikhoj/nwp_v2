@@ -1,0 +1,6 @@
+Generated at: 2026-04-01T18:14:46Z
+Command:
+  bash collect_evidence.sh
+
+This folder contains lightweight proof artifacts only.
+Large model outputs remain outside Git.
