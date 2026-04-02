@@ -1,3 +1,8 @@
+![WRF](https://img.shields.io/badge/WRF-4.5.2-blue)
+![WPS](https://img.shields.io/badge/WPS-4.5-green)
+![Domain](https://img.shields.io/badge/Domain-West%20Texas%203km-orange)
+![Status](https://img.shields.io/badge/Run-Completed-brightgreen)
+
 # WRF (ARW) 24-hour Forecast Demo
 
 This repository shows the workflow I used to run a 24-hour WRF forecast with WPS preprocessing.
