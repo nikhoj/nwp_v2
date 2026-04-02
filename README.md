@@ -57,3 +57,39 @@ These files are small and show that the run completed and produced expected arti
   tar -xzf v4.5.2.tar.gz WRFV4.5.2/run
   ```
 - Full outputs remain in HPC storage and can be shared on request.
+
+## Forecast Analysis (March 31-April 1, 2026)
+
+Analysis notebook and table:
+
+- `analysis/notebooks/analysis.ipynb`
+- `analysis/data/analysis_summary_timeseries.csv`
+
+Generated figures:
+
+### 1) Domain Mean Time Series
+Shows domain-mean 2m temperature, domain-mean 10m wind speed, and mean hourly rainfall across the simulation window.
+
+![Domain Mean Time Series](results/figures/plot_domain_timeseries.png)
+
+### 2) Total Event Precipitation Map
+Shows total accumulated event rainfall (`RAINC + RAINNC`) at each grid point from start to end of forecast.
+
+![Total Event Precipitation](results/figures/plot_total_precip_map.png)
+
+### 3) Maximum Hourly Precipitation Map
+Shows the highest hourly rainfall reached at each grid cell during the run.
+
+![Maximum Hourly Precipitation](results/figures/plot_max_hourly_precip_map.png)
+
+### 4) Snapshot: 2m Temperature and 10m Wind
+Shows a selected forecast-time snapshot of near-surface temperature with wind vectors.
+
+![T2 and 10m Wind Snapshot](results/figures/plot_snapshot_t2_wind.png)
+
+### What We Learn from This Run
+
+- The model completed successfully and produced a continuous 24-hour forecast.
+- Rainfall behavior can be assessed in both total accumulation and peak hourly intensity.
+- Near-surface thermodynamic and wind evolution can be diagnosed from the time series and snapshot fields.
+- These plots provide a baseline for future observation-based skill checks (bias, MAE, RMSE).
